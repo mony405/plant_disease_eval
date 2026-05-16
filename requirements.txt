@@ -1,0 +1,21 @@
+# Core AI & Model Loading
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+
+# Data Handling & Math
+numpy
+pandas
+pillow
+
+# Evaluation & Visualization
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Environment Management
+python-dotenv
